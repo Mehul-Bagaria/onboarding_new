@@ -3,5 +3,6 @@ site_name: Avkalan Labs
 nav:
   - Home: index.md
   - About: about.md
+  - System Overview: system_overview.md
 
 theme: readthedocs
